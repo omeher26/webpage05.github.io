@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-image: url(/webpages/project05/laptop02.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+    padding-top: 200px;
+}
+
+.p1{
+    font-size: 4rem;
+    font-weight: 200;
+}
+
+.p2{
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.btn1{
+    width: 110px;
+    height: 30px;
+    border-radius: 40px;
+    background-color: white;
+    outline: none;
+    border: none;
+}
+
+.img-fluid{
+    width: 130px;
+    height: 130px;
+}
